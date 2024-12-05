@@ -1,0 +1,17 @@
+﻿<Window x:Class="ArraylistApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ArraylistApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Content="Add" HorizontalAlignment="Left" Margin="117,0,0,0" VerticalAlignment="Center" Height="36" Width="122" Click="Button_Add"/>
+        <Button Content="Remove" HorizontalAlignment="Left" Margin="278,0,0,0" VerticalAlignment="Center" Height="36" Width="122" Click="Button_Remove"/>
+        <Button Content="ShowAll" HorizontalAlignment="Left" Margin="445,0,0,0" VerticalAlignment="Center" Height="36" Width="122" Click="Button_Showall"/>
+        <TextBox x:Name="txtname" HorizontalAlignment="Left" Margin="117,129,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="450" Height="41" Text="กรอกข้อความ"  />
+        <!--<TextBox x:Name="txtname_Copy" HorizontalAlignment="Left" Margin="211,148,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="256" Height="41" Text="กรอกข้อความ"  />-->
+
+    </Grid>
+</Window>

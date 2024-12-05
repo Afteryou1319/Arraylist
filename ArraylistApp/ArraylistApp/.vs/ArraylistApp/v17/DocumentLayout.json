@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jao A\\source\\repos\\ArraylistApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98FA8F22-A788-4C29-9AF7-F702647C3F8C}|ArraylistApp\\ArraylistApp.csproj|c:\\users\\jao a\\source\\repos\\arraylistapp\\arraylistapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{98FA8F22-A788-4C29-9AF7-F702647C3F8C}|ArraylistApp\\ArraylistApp.csproj|solutionrelative:arraylistapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FA8F22-A788-4C29-9AF7-F702647C3F8C}|ArraylistApp\\ArraylistApp.csproj|c:\\users\\jao a\\source\\repos\\arraylistapp\\arraylistapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FA8F22-A788-4C29-9AF7-F702647C3F8C}|ArraylistApp\\ArraylistApp.csproj|solutionrelative:arraylistapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Jao A\\source\\repos\\ArraylistApp\\ArraylistApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ArraylistApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Jao A\\source\\repos\\ArraylistApp\\ArraylistApp\\MainWindow.xaml",
+              "RelativeToolTip": "ArraylistApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-24T10:33:02.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Jao A\\source\\repos\\ArraylistApp\\ArraylistApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ArraylistApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Jao A\\source\\repos\\ArraylistApp\\ArraylistApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ArraylistApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwDAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T10:33:00.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
